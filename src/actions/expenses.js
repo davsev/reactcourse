@@ -1,6 +1,6 @@
 import uuid from 'uuid';
 
-export const addExpenses = (
+export const addExpense = (
     {
         description = '',
         note = '',
