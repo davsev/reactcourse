@@ -3,7 +3,6 @@ export const setTextFilter = (text = '') => ({
     text
 })
 
-
 export const sortByDate = () =>({
     type: 'SORT_BY_DATE'
 });
